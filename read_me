@@ -1,0 +1,5 @@
+run test i :
+  g++ HW2_i_test
+  ./a.out 
+when asked for input (1 and 2) insert a number , for assignments (3 & 4) matrices
+are hardcoded  
